@@ -19,7 +19,7 @@ By correlating spending to segment characteristics, discover what factors drive 
 
 Topics:
 1.Python Fundamentals
-2.andas: Data processing techniques
+2.Pandas: Data processing techniques
 3.Data distributions Data visualization
 4.Exploratory Data Analysis
 5,Data storytelling
